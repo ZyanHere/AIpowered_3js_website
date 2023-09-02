@@ -1,6 +1,5 @@
-# AIpowered_3js_website
+# AIpowered_T3reejs_website
 ![Screenshot (29)](https://github.com/ZyanHere/AIpowered_3js_website/assets/133707817/32b6ed73-3253-4356-ad51-742b9d21c2de)
-![Screenshot (33)](https://github.com/adrianhajdin/project_threejs_ai/assets/133707817/bf96c929-2b9e-4b75-bea5-6e603d799408)
 
 Introduction
     This repository contains the code for an AI-powered 3D shirt design website built using React, Vite, Tailwind CSS, Framer Motion, Three.js, Express.js, and the OpenAI API. The website offers two main pages: the home page and the customizer page, allowing users to design and customize their own shirts.
