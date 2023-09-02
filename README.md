@@ -5,7 +5,7 @@
 Introduction
     This repository contains the code for an AI-powered 3D shirt design website built using React, Vite, Tailwind CSS, Framer Motion, Three.js, Express.js, and the OpenAI API. The website offers two main pages: the home page and the customizer page, allowing users to design and customize their own shirts.
     
-    The website leverages the power of Three.js, a robust 3D graphics library, to render and animate 3D shirt models. It integrates the OpenAI API to generate images using DALL·E AI, enabling users to create unique and imaginative shirt designs. Additionally, custom colors and files can be uploaded to further personalize the shirt.
+   The website leverages the power of Three.js, a robust 3D graphics library, to render and animate 3D shirt models. It integrates the OpenAI API to generate images using DALL·E AI, enabling users to create unique and imaginative shirt designs. Additionally, custom colors and files can be uploaded to further personalize the shirt.
 
 Features
   1. Home Page:
